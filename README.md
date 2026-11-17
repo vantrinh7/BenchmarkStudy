@@ -1,4 +1,4 @@
-# Advanced Model Benchmark Study
+# BRAG Benchmark Study
 
 This study investigates the cooperative binding of oxygen to hemoglobin, focusing on the application of the Hill and Adair equations to model oxygen-hemoglobin interactions. Protein-ligand binding is a foundational concept in biochemistry with critical implications for human physiology. Deepening our understanding of these oxygen binding mechanisms supports the advancement and optimization of biomedical applications and therapeutic interventions for respiratory and cardiovascular diseases.
 
