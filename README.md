@@ -2,8 +2,6 @@
 
 This study investigates the cooperative binding of oxygen to hemoglobin, focusing on the application of the Hill and Adair equations to modeling oxygen-hemoglobin interactions. Protein-ligand binding is a foundational concept in biochemistry with critical implications for human physiology. Deepening our understanding of these oxygen binding mechanisms supports the advancement and optimization of biomedical applications and therapeutic interventions for respiratory and cardiovascular diseases.
 
-This repository contains data for a sample task and the analysis of responses from several current frontier models.
-
 ## File Description
 
 * **Sample task and solution**: the model needs to comprehend a biphasic oxygen hemoglobin binding curve, transform linear axes to log axes of the graph, apply the correct linearized form of the Hill equation, and calculate the final values of the partial pressures of oxygen at half saturation for hemoglobin and myoglobin.
