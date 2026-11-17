@@ -15,12 +15,12 @@ This study investigates the cooperative binding of oxygen to hemoglobin, focusin
 This sample task is difficult for multiple reasons. <br>
 * **Advanced understanding of biochemical concepts**: Advanced topics in cooperative binding and the application of the Hill equation can stump models. <br>
 * **Easily confused mathematical notations**: There are multiple versions of the equation used in the task (Hill equation) resulting from extensive published studies. The model needs to select the correct version among very closely related and easily confused versions. <br> 
-* **Multi-step problem solving**: Solving problems that require multiple steps to reach the conclusion is a way to stump the models.  <br>
-* **Transforming and interpreting logarithmic graphs**: Transforming linear axes into log axes and generating a completely new graph to solve the problem can stump the models. <br>
+* **Multi-step problem solving**: Solving problems that require multiple steps to reach the conclusion is a way to stump the models. The models may oversimplify the problem, remove necessary steps, and reach a wrong conclusion.  <br>
+* **Transforming and interpreting logarithmic graphs**: Transforming linear axes into log axes and generating a completely new graph to solve the problem can stump the models. Models can struggle to come up with graph generation as a step to solving the problem. <br>
 
 ## Expertise
 My expertise is provided in the following. <br>
 * **Basic science knowledge**: With a bachelor’s degree in biochemistry, I can provide expertise in questions that command the use of textbook biochemistry knowledge. <br>
 * **Research-backed judgement**: With multiple years of research, wet lab work, and co-authored publications, I have expertise in synthesizing scientific studies and providing sound judgement based on high-quality peer-reviewed publications. <br>
-* **Teaching experience**: With previous experience in teaching, I can identify knowledge gaps and provide guidance on filling those gaps. For example, a frontier model may output a wrong solution due to misunderstanding the plot, oversimplifying the problem, or using the wrong equation.
-* **AI training experience**: With previous experience in training models, I can recognize where the models can be stumped and how to train the models in tasks such as creating prompts, evaluating side-by-side, ranking outputs, code debugging, and evaluating STEM queries. <br>
+* **Teaching experience**: With previous experience in teaching, I can identify knowledge gaps and provide guidance on filling those gaps.
+* **Model training experience**: With previous experience in training frontier models, I can recognize where the models can be stumped and how to train the models in tasks such as creating prompts, evaluating side-by-side, ranking outputs, code debugging, and evaluating STEM queries. <br>
