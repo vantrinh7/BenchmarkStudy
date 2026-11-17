@@ -17,7 +17,7 @@ My expertise is provided in the following. <br>
 * **Model training experience**: I have previous experience in training frontier models in tasks such as creating prompts, evaluating side-by-side, ranking outputs, code debugging, and evaluating STEM queries. I can recognize where the models may struggle. <br>
 
 ## File Description
-* **Sample task and solution**: comprehend a biphasic oxygen hemoglobin binding curve, transform linear axes to log axes of the graph, apply the correct linearized form of the Hill equation, and calculate the final values of the partial pressures of oxygen at half saturation for hemoglobin and myoglobin. <br>
+* **Sample task and solution**: comprehend a biphasic oxygen hemoglobin binding curve, transform linear axes to log axes, apply the correct form of the Hill equation, and calculate the final values of the partial pressures of oxygen at half saturation for hemoglobin and myoglobin. <br>
 
 * **Oxygen-hemoglobin binding data**: The first sheet contains the raw data points of partial pressure of oxygen pO<sub>2</sub> and oxygen saturation Y/(1-Y) for wild-type hemoglobin (Hb), myoglobin (Mb), recombinant hemoglobin (rHb), and hemoglobin treated with inositol hexaphosphate. The second sheet contains a plot of pO<sub>2</sub> versus Y/(1-Y) with each data point labeled with exact x and y coordinates. The third sheet contains plots before and after the transformation of linear axes into logarithmic axes. <br>
   
