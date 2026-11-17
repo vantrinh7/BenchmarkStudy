@@ -17,8 +17,8 @@ This repository contains data for a sample task and the analysis of responses fr
 This sample task is difficult for multiple reasons. <br>
 * **Advanced understanding of biochemical concepts**: Advanced topics in cooperative binding and the application of the Hill equation can stump models. <br>
 * **Easily confused mathematical notations**: There are multiple versions of the equation used in the task (Hill equation) resulting from extensive published studies. The model needs to select the correct version among very closely related and easily confused versions. <br> 
-* ** Multi-step problem solving**: Solving problems that require multiple steps to reach the conclusion is a way to stump the models.  <br>
-* ** Transforming and interpreting logarithmic graphs**: Transforming linear axes into log axes and generating a completely new graph to solve the problem can stump the models. <br>
+* **Multi-step problem solving**: Solving problems that require multiple steps to reach the conclusion is a way to stump the models.  <br>
+* **Transforming and interpreting logarithmic graphs**: Transforming linear axes into log axes and generating a completely new graph to solve the problem can stump the models. <br>
 
 ## Expertise
 My expertise is provided in the following. <br>
