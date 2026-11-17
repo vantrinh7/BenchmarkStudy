@@ -21,6 +21,6 @@ This sample task is difficult for multiple reasons. <br>
 ## Expertise
 My expertise is provided in the following. <br>
 * **Basic science knowledge**: With a bachelor’s degree in biochemistry, I can provide expertise in questions that command the use of textbook biochemistry knowledge. <br>
-* **Research-backed judgement**: I have multiple years of research, wet lab work, and co-authored publications. I can synthesize scientific studies and provide sound judgement based on high-quality peer-reviewed publications. <br>
+* **Research-backed judgement**: I have multiple years of research, wet lab work, and co-authored publications. I can synthesize scientific studies and provide judgement backed by peer-reviewed studies. <br>
 * **Teaching experience**: With previous experience in teaching, I can identify knowledge gaps and provide guidance on filling those gaps.
 * **Model training experience**: I have previous experience in training frontier models in tasks such as creating prompts, evaluating side-by-side, ranking outputs, code debugging, and evaluating STEM queries. I can recognize where the models may struggle. <br>
