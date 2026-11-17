@@ -13,7 +13,7 @@ This study investigates the cooperative binding of oxygen to hemoglobin, focusin
 
 ## Difficulty breakdown
 This sample task is difficult for multiple reasons. <br>
-* **Advanced understanding of biochemical concepts**: Advanced topics in cooperative binding and the application of the Hill equation can stump models. <br>
+* **Advanced understanding of biochemical concepts**: Advanced topics and areas of active research such as cooperative binding and the application of the Hill equation can stump models. <br>
 * **Easily confused mathematical notations**: There are multiple versions of the equation used in the task resulting from extensive published studies. The model needs to select the correct version among very closely related and easily confused versions. <br> 
 * **Multi-step problem solving**: Solving problems that require multiple steps to reach the conclusion is a way to stump the models. The models may oversimplify the problem, remove necessary steps, and reach a wrong conclusion.  <br>
 * **Interpreting and transforming graphs**: A biphasic graph is uncommon and rather difficult to comprehend. Transforming linear axes into log axes and generating a completely new graph to solve the problem adds another layer of difficulty, as models can struggle to come up with graph generation as a step to solving the problem. <br>
