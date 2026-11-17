@@ -21,5 +21,5 @@ My expertise is provided in the following. <br>
 
 * **Oxygen-hemoglobin binding data**: The first sheet contains the raw data points of partial pressure of oxygen pO<sub>2</sub> and oxygen saturation Y/(1-Y) for wild-type hemoglobin (Hb), myoglobin (Mb), recombinant hemoglobin (rHb), and hemoglobin treated with inositol hexaphosphate. The second sheet contains a plot of pO<sub>2</sub> versus Y/(1-Y) with each data point labeled with exact x and y coordinates. The third sheet contains plots before and after the transformation of linear axes into logarithmic axes. <br>
   
-* **Analysis of responses from current frontier models (Claude, ChatGPT, Gemini)**: This file contains the responses from Claude Sonnet 5.5., GPT 6, and Gemini 3.8 Flash and an analysis of where the responses are wrong. 
+* **Analysis of responses from current frontier models (Claude, ChatGPT, Gemini)**: This file contains the responses from Claude Sonnet 5.5., GPT 6, and Gemini 3.8 Flash when presented with the task and an analysis of where the responses are wrong. 
 
