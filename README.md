@@ -6,7 +6,7 @@ This study investigates the cooperative binding of oxygen to hemoglobin, focusin
 
 * **Sample task and solution**: comprehend a biphasic oxygen hemoglobin binding curve, transform linear axes to log axes of the graph, apply the correct linearized form of the Hill equation, and calculate the final values of the partial pressures of oxygen at half saturation for hemoglobin and myoglobin.
   
-* **Oxygen-hemoglobin binding data**: The first sheet contains the raw data points of partial pressure of oxygen pO<sub>2</sub> and oxygen saturation Y/1-Y for wild-type hemoglobin (Hb), myoglobin (Mb), recombinant hemoglobin (rHb), and hemoglobin treated with inositol hexaphosphate. The second sheet contains a plot of pO<sub>2</sub> versus Y/1-Y with each data point labeled with exact x and y coordinates. The third sheet contains plots before and after the transformation of linear axes into logarithmic axes. 
+* **Oxygen-hemoglobin binding data**: The first sheet contains the raw data points of partial pressure of oxygen pO<sub>2</sub> and oxygen saturation Y/1-Y for wild-type hemoglobin (Hb), myoglobin (Mb), recombinant hemoglobin (rHb), and hemoglobin treated with inositol hexaphosphate. The second sheet contains a plot of pO<sub>2</sub> versus Y/(1-Y) with each data point labeled with exact x and y coordinates. The third sheet contains plots before and after the transformation of linear axes into logarithmic axes. 
 
 * **Analysis of responses from current frontier models (Gemini, Claude, ChatGPT)**:
 
